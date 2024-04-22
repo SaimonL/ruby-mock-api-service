@@ -1,0 +1,8 @@
+[
+  {
+    "method": "get",
+    "path": "/",
+    "file": "welcome.json"
+  }
+]
+
