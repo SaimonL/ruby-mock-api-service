@@ -3,6 +3,7 @@
 ## Usage
 
 Create a folder in "apps" folder then copy over the samples from "example" folder.
+Routes specify the path, and the response file to render.
 
 ## Start
 
