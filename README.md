@@ -13,4 +13,4 @@ bundle
 ./start.sh
 ```
 
-Then go to (Localhost)[http://localhost:8000]
+Then go to [Localhost](http://localhost:8000)
